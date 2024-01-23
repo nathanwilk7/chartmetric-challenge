@@ -1,0 +1,7 @@
+duckdb
+pandas
+psycopg2
+pyarrow
+pytest
+sqlalchemy
+typer[all]
